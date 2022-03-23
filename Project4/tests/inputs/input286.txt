@@ -1,0 +1,10 @@
+1
+5 
+1
+1 
+0
+
+1
+6 
+31
+ce 15 e 11 ae 11 abe 14 ace 13 ce 14 be 0 ac 3 b 14 c 8 abd 10 c 3 c 6 ab 5 ad 4 e 4 ad 4 be 15 acd 13 ace 4 d 3 abe 0 acd 11 d 11 ace 15 ac 2 ab 13 ac 12 abd 15 ab 0 ac 5 

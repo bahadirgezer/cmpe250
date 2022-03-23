@@ -1,0 +1,10 @@
+0
+
+0
+
+0
+
+0
+
+110
+c 3 e 7 a 7 b 3 acd 6 ac 3 ae 4 ad 7 c 2 ce 5 ce 3 ac 2 acd 4 b 5 be 0 bd 4 abd 7 ad 6 ad 3 ace 6 ce 6 ac 2 cd 5 ac 6 d 5 a 5 acd 5 ae 2 abe 2 abd 4 a 3 be 1 acd 5 a 7 ace 4 e 5 ace 2 abd 3 ab 5 acd 2 abd 5 ac 3 c 7 d 0 ce 5 b 2 cd 3 ab 2 e 7 bd 1 ab 7 ab 1 e 4 ace 2 ac 6 be 0 a 6 ace 6 cd 7 cd 5 acd 5 cd 0 acd 2 ad 1 e 1 ace 6 ad 4 be 1 abd 6 b 1 ae 2 ac 0 c 1 ace 7 ace 1 c 7 ad 3 ac 0 e 1 a 5 be 7 e 6 ac 7 c 6 acd 0 d 0 ac 4 abe 4 be 1 ac 3 c 7 d 3 abd 3 ad 5 d 5 abd 1 d 5 ace 6 acd 4 acd 4 ac 2 ae 6 ace 0 e 1 ce 0 acd 3 ab 6 d 7 abd 4 ac 7 

@@ -1,0 +1,10 @@
+4
+6 30 38 40 
+7
+1 6 14 5 33 21 11 
+7
+32 9 18 36 20 15 14 
+1
+28 
+48
+ace 6 bd 2 cd 6 be 1 ad 8 ac 0 abd 6 ae 8 e 9 acd 11 be 5 ce 7 b 4 ab 1 c 5 abd 4 bd 5 d 5 cd 2 ae 6 b 4 a 7 ad 1 ac 1 a 1 e 10 ae 5 ae 7 ad 1 ad 5 ab 10 bd 7 e 7 be 1 ad 4 be 6 d 8 ae 4 ace 8 ce 0 ac 9 acd 5 ad 11 ac 3 abd 8 bd 1 bd 0 be 8 

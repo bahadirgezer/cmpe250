@@ -1,0 +1,66 @@
+[1.0]
+Training Event Start - player id: 0, duration: 1.2
+[1.0]
+Training Event Queue - player id: 1, duration: 2.0
+[1.3]
+Training Event Queue - player id: 2, duration: 2.0
+[1.5]
+Massage Attempt Cancelled - 
+[2.2]
+Training Event End - 
+TherapyEvent Start - player id: 0, duration: 6.0
+Training Event DeQueue - player id: 1, duration: 2.0
+[2.2]
+Training Event Start After Queue - player id: 1, duration: 2.0
+[4.2]
+Training Event End - 
+Therapy Event Queue - player id: 1, duration: 2.0
+Training Event DeQueue - player id: 2, duration: 2.0
+[4.2]
+Training Event Start After Queue - player id: 2, duration: 2.0
+[6.2]
+Training Event End - 
+Therapy Event Queue - player id: 2, duration: 2.0
+[8.2]
+Therapy Event End - player id: 0, duration: 6.0
+Therapy Event DeQueue - player id: 1, duration: 2.0
+[8.2]
+Therapy Event Start After Queue - player id: 1, duration: 6.0
+[8.3]
+Massage Event Start - player id: 0, duration: 2.0
+[10.3]
+Massage Event End - player id: 0, duration: 2.0
+[14.2]
+Therapy Event End - player id: 1, duration: 6.0
+Therapy Event DeQueue - player id: 2, duration: 2.0
+[14.2]
+Therapy Event Start After Queue - player id: 2, duration: 6.0
+[15.0]
+Massage Event Start - player id: 0, duration: 1.0
+[15.0]
+Massage Event Queue - player id: 1, duration: 1.1
+[16.0]
+Massage Event End - player id: 0, duration: 1.0
+Massage Event DeQueue - player id: 1, duration: 1.1
+[16.0]
+Massage Event Start After DeQueue - player id: 1, duration: 1.1
+[17.1]
+Massage Event End - player id: 1, duration: 1.1
+[17.5]
+Massage Event Start - player id: 0, duration: 0.5
+[18.0]
+Massage Event End - player id: 0, duration: 0.5
+[19.0]
+Training Event Start - player id: 0, duration: 1.2
+[20.2]
+Training Event End - 
+Therapy Event Queue - player id: 0, duration: 1.2
+[20.2]
+Massage Attempt Invalid - 
+[20.2]
+Therapy Event End - player id: 2, duration: 6.0
+Therapy Event DeQueue - player id: 0, duration: 1.2
+[20.2]
+Therapy Event Start After Queue - player id: 0, duration: 6.0
+[26.2]
+Therapy Event End - player id: 0, duration: 6.0

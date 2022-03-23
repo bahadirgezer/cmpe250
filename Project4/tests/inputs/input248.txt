@@ -1,0 +1,10 @@
+0
+
+0
+
+0
+
+4
+2 5 10 11 
+17
+c 2 abd 7 ad 17 abe 12 a 2 c 11 d 4 ae 17 be 11 ab 13 ad 11 c 7 ab 9 be 2 acd 4 cd 5 d 0 

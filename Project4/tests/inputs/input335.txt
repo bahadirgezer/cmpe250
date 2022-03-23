@@ -1,0 +1,10 @@
+6
+921 433 129 1319 648 576 
+0
+
+10
+1020 833 141 937 105 148 578 359 1228 725 
+2
+1130 222 
+41
+ac 42 d 24 c 31 ab 9 ace 43 d 40 abd 74 ad 70 abe 59 ce 92 ace 8 e 52 ce 3 ac 32 bd 43 b 13 ace 46 c 18 bd 72 e 67 ce 42 c 67 bd 22 ad 54 ae 71 ab 20 abe 77 abe 57 ce 21 ce 25 ce 8 ad 17 d 42 a 89 abd 66 ad 21 d 58 ac 43 c 28 ac 14 acd 60 

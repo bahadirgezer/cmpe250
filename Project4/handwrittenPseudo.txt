@@ -1,0 +1,40 @@
+
+ArrayDequeue<Node> activeNodes;
+HashSet<Node> notRelabeledTransportNodes;
+
+preflow();
+while(true) {
+	if (notRelabeledTransportNodes.isEmpty()) {
+		break;
+	}
+
+	fromNode = activeNodes.poll();
+	for (Edge edge in fromNode.edges()) {
+		if (edge.admissible()) {
+			push();
+			if (toNode not in activeNodes) {
+				activeNodes.add(toNode);
+			}
+		}
+	}
+
+	if (fromNode.hasExcess() && !fromNode.equals(sink || source)) {
+		if (fromNode is transportNode) {
+			notRelabeledTransportNodes.remove(fromNode);
+		}
+		fromNode.relabel();
+		activeNodes.add(fromNode);
+	}
+}
+
+admissibility: fromNode.height = toNode.height + 1 && ;
+
+public void preflow() {
+	for (Edge edge in source.edges()) {
+		int flow = edge.getCapacity();
+		Node toNode = edge.getToNode();
+		edge.addFlow(flow);
+		edge.reverseFlow(flow);
+		toNode.addExcess(flow);
+	}
+}

@@ -1,0 +1,10 @@
+1
+17 
+1
+31 
+0
+
+0
+
+68
+abd 0 ad 0 cd 0 b 0 e 0 ad 0 be 0 ae 0 cd 0 ab 0 ce 0 b 0 cd 0 ab 0 bd 0 acd 0 abd 0 ce 0 cd 0 a 0 abd 0 ce 0 ae 0 ace 0 ab 0 bd 0 ce 0 ab 0 a 0 ab 0 abd 0 c 0 be 0 ac 0 c 0 be 0 acd 0 bd 0 be 0 bd 0 e 0 cd 0 e 0 cd 0 ad 0 bd 0 ab 0 ac 0 ac 0 acd 0 bd 0 ad 0 ad 0 cd 0 abd 0 e 0 ae 0 ad 0 bd 0 bd 0 ace 0 ae 0 be 0 d 0 ab 0 ad 0 a 0 a 0 

@@ -1,0 +1,10 @@
+0
+
+4
+35 5 13 15 
+1
+22 
+3
+8 39 19 
+40
+be 25 e 2 a 18 c 5 ab 9 cd 12 ce 5 ce 0 ce 18 cd 22 a 14 e 2 ace 8 ace 2 c 25 ac 16 ce 26 a 15 abd 7 ad 25 d 25 c 24 bd 11 ac 20 acd 15 ae 14 ad 8 ce 2 ae 14 be 6 ab 2 bd 1 c 5 d 23 abd 3 cd 5 abe 14 ace 22 cd 24 ac 3 

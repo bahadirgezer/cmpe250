@@ -1,0 +1,10 @@
+2
+0 3 
+5
+4 3 4 1 2 
+7
+2 5 4 2 1 6 6 
+4
+4 0 5 3 
+18
+e 9 ace 9 cd 4 bd 7 a 0 cd 9 ad 7 ace 0 ce 8 ac 2 be 7 ad 2 a 4 c 4 a 8 ad 6 ad 2 c 2 

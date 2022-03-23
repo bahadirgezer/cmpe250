@@ -1,0 +1,10 @@
+0
+
+2
+3 57 
+1
+41 
+2
+58 53 
+40
+ad 100 ae 293 ace 239 abd 38 cd 209 ad 351 a 441 ace 143 ce 370 d 514 e 439 acd 481 a 528 cd 52 b 154 ac 421 a 500 d 48 be 511 bd 149 bd 291 abd 663 ac 259 acd 667 ace 747 cd 610 bd 70 ce 493 c 491 e 432 e 100 acd 581 ce 291 ab 531 c 791 acd 670 ad 439 b 703 abe 188 bd 60 

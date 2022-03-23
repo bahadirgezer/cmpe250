@@ -1,0 +1,10 @@
+4
+234 866 263 410 
+11
+595 316 307 864 113 693 653 286 827 189 166 
+14
+229 468 235 254 737 28 75 902 591 906 436 28 912 904 
+8
+726 230 338 44 119 153 999 969 
+142
+abd 15 ae 20 abe 8 ace 54 bd 5 e 52 ab 19 ac 21 e 20 a 2 e 27 c 40 ad 21 ac 3 ce 1 a 54 ac 6 ae 6 ac 44 e 12 abd 45 ad 32 ad 15 e 38 b 10 be 5 abd 0 ad 40 abe 17 ae 2 bd 25 abe 47 cd 36 cd 24 ac 18 ad 46 b 53 abe 19 ce 49 d 22 ae 45 a 12 ac 31 be 9 ac 35 c 16 cd 48 ac 6 e 7 b 52 b 24 b 32 c 2 c 45 acd 3 ae 48 e 10 ab 47 b 1 ae 16 be 12 ace 6 bd 36 a 16 acd 53 abe 42 ab 48 ae 6 abe 44 d 34 ae 5 ac 28 ab 13 cd 8 ace 6 bd 18 be 44 e 3 acd 35 cd 26 abe 32 ace 35 abd 24 ace 23 acd 11 acd 0 acd 11 cd 28 ab 53 ce 56 a 24 abe 49 c 31 acd 35 bd 29 c 6 ce 39 ace 51 acd 44 abd 32 be 8 b 49 c 53 b 13 b 41 a 24 ace 22 ae 47 bd 35 bd 40 cd 54 a 44 b 50 be 4 ace 46 be 18 ce 44 b 52 ce 19 ce 28 cd 35 ce 30 ce 49 ae 42 ace 1 ce 54 b 17 a 56 ad 53 b 3 d 5 ac 44 ace 42 a 0 ad 33 ac 42 bd 20 a 20 ace 38 ce 44 e 47 d 10 

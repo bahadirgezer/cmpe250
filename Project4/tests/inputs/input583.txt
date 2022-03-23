@@ -1,0 +1,10 @@
+1
+275 
+2
+375 389 
+2
+89 378 
+0
+
+111
+cd 63 cd 13 ce 71 abd 117 be 86 bd 78 cd 39 be 27 abe 96 c 30 be 43 acd 120 ae 33 c 2 d 47 abd 45 be 96 ce 19 acd 44 abd 80 abe 70 ad 110 e 111 abe 66 b 13 d 2 be 11 c 55 d 57 b 30 bd 34 abe 74 cd 68 ad 75 ab 21 ae 48 acd 109 acd 68 ace 38 ab 122 e 43 acd 115 ab 84 acd 69 acd 71 acd 13 b 23 abe 98 d 99 a 1 bd 69 acd 106 ab 71 ae 28 bd 113 ab 120 e 1 ce 58 abd 33 e 87 cd 61 ae 106 b 31 ad 35 d 62 ac 39 ace 8 c 118 abd 106 cd 91 abd 55 ce 22 ac 66 c 120 ace 7 b 45 e 22 ace 45 be 94 ac 19 ce 15 ae 41 abe 36 ace 81 cd 98 ace 14 ab 10 d 11 ae 105 bd 115 ad 61 e 124 e 70 ae 123 b 15 acd 52 ace 81 ae 27 acd 43 a 65 d 2 abe 77 ab 36 e 13 b 28 bd 77 d 38 ab 58 acd 104 c 71 bd 103 

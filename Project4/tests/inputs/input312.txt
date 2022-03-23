@@ -1,0 +1,10 @@
+2
+81 227 
+6
+280 284 212 270 259 36 
+6
+43 224 306 26 63 162 
+11
+277 315 76 26 22 50 212 159 224 217 89 
+173
+ce 491 d 381 ab 557 abe 693 ace 264 d 363 ad 378 acd 57 ac 82 e 351 ac 519 abd 704 bd 417 abe 142 ab 514 e 10 ae 270 ce 608 abe 358 c 162 acd 99 ce 655 c 671 a 94 e 81 acd 204 ab 769 a 325 bd 1 c 483 ab 707 ce 617 ac 501 a 698 c 368 cd 511 e 346 abe 764 ad 309 d 645 ace 628 ce 497 ac 552 be 487 ad 102 c 705 bd 602 abe 454 abe 110 bd 568 bd 376 be 195 ab 461 bd 590 ce 92 acd 17 cd 603 a 343 e 396 ac 633 ad 128 bd 585 bd 344 d 156 ace 519 be 674 c 398 d 308 abe 176 c 499 ce 622 be 193 bd 642 abd 171 be 454 ac 518 ab 577 d 320 ae 716 d 64 c 496 a 550 ae 551 ae 688 d 29 c 206 ab 496 ace 681 d 361 abe 214 bd 173 abe 494 abe 531 ace 102 abe 476 be 470 abd 646 a 561 ae 632 c 766 be 656 abe 134 bd 411 ac 659 ce 606 ad 108 abe 411 ce 18 acd 203 e 502 ab 210 b 42 ace 290 ac 650 ab 34 e 598 ace 680 ce 191 b 193 a 270 d 93 c 66 b 637 ae 526 ab 489 a 620 c 328 cd 503 abd 644 c 73 b 290 b 714 ac 122 bd 249 abe 415 acd 770 abd 213 ac 129 ce 88 e 343 cd 46 b 418 cd 562 d 677 abe 337 ab 11 be 440 a 338 c 44 ac 373 ace 770 ac 698 bd 69 ab 227 c 740 b 420 b 196 c 328 ab 117 ab 424 acd 624 ace 75 abe 641 c 88 ae 772 ae 675 abd 749 abe 119 ad 472 b 317 cd 304 c 84 ae 703 

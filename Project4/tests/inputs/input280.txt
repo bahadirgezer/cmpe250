@@ -1,0 +1,10 @@
+2
+0 0 
+2
+0 0 
+1
+0 
+1
+0 
+14
+bd 0 c 0 ab 0 bd 0 ce 0 ac 0 be 0 ad 0 ace 0 abd 0 acd 0 e 0 ce 0 acd 0 

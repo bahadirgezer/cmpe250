@@ -1,0 +1,10 @@
+4
+312 553 182 709 
+0
+
+5
+502 276 231 180 270 
+6
+613 555 88 437 69 253 
+137
+e 57 a 35 ae 27 ad 5 be 3 ace 23 acd 11 cd 59 ac 23 abe 50 ac 37 ab 3 ace 49 abe 64 a 11 acd 37 b 11 abd 36 abd 62 acd 60 ace 1 c 1 bd 49 b 1 e 44 ab 10 ace 49 a 33 c 61 e 32 cd 43 ace 14 ae 43 acd 39 ad 53 ce 48 acd 49 ab 62 be 55 abe 65 ac 28 be 57 ac 60 c 2 a 66 a 64 ace 25 c 20 abe 65 cd 7 be 2 e 31 abe 19 acd 22 ab 33 ad 18 abd 58 d 24 ad 6 cd 13 a 63 b 29 d 4 cd 54 abe 36 bd 10 e 34 abd 0 bd 64 ace 1 abd 66 abe 38 abe 34 acd 21 bd 6 abd 32 e 12 cd 32 abe 51 ace 21 ab 11 be 37 ce 40 ac 21 e 62 ad 5 d 19 c 26 d 41 a 39 ce 42 ce 39 be 59 ac 60 acd 63 ac 63 a 45 abd 18 acd 9 c 14 c 25 ace 29 ce 27 ad 61 bd 15 ce 60 d 38 cd 5 d 66 c 60 c 37 ae 7 bd 26 c 35 ce 39 be 43 ae 0 ce 2 e 30 bd 16 ace 10 a 64 c 11 cd 66 d 53 cd 21 ae 26 ac 38 be 64 c 46 be 54 acd 9 abe 58 ab 6 ace 27 bd 31 ace 61 

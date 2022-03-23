@@ -1,0 +1,10 @@
+1
+4 
+2
+4 6 
+3
+5 6 7 
+0
+
+92
+a 5 abd 2 ac 4 bd 2 cd 1 abd 6 be 5 a 0 abd 5 ab 3 be 1 a 3 d 3 abd 6 ace 2 ce 6 cd 2 abd 6 ace 3 ac 6 ce 2 abe 1 ad 1 ce 4 abe 0 ce 3 a 2 b 5 cd 2 bd 5 bd 0 acd 6 abd 4 abe 5 ace 5 a 2 ace 0 abd 6 cd 6 ab 4 bd 3 bd 5 ad 2 ace 6 ab 1 b 5 abe 2 a 6 a 5 c 3 ad 1 ce 6 abe 1 abd 4 b 0 be 6 ad 0 ae 0 a 6 d 0 ace 1 acd 2 c 3 ace 4 bd 2 abe 6 d 5 ace 0 abe 2 b 5 e 1 a 4 c 5 c 0 ad 2 c 2 acd 5 c 5 cd 2 abe 1 ab 1 cd 3 d 4 d 0 ace 1 ace 4 be 0 e 3 ab 3 ab 1 e 3 c 5 

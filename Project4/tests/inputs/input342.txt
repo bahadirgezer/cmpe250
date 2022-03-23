@@ -1,0 +1,10 @@
+10
+348 66 407 138 260 412 699 754 155 484 
+5
+576 228 700 400 606 
+6
+529 619 465 192 245 377 
+5
+205 561 120 124 733 
+126
+ace 71 c 326 bd 144 ac 55 a 165 cd 178 ace 53 a 193 be 336 bd 181 d 118 c 297 b 470 abd 183 e 66 bd 242 ace 72 bd 155 acd 108 abd 186 ac 171 cd 167 abd 153 ac 222 abd 358 ad 123 ac 392 abe 124 d 207 be 202 ae 334 cd 10 ac 274 a 424 ac 214 ce 139 acd 432 ab 52 ae 481 ad 311 ace 282 b 303 ab 163 c 32 cd 168 ab 483 ae 186 ae 152 ace 429 ce 0 abe 405 ae 352 a 412 bd 191 a 104 ae 72 ace 124 ace 475 b 28 bd 152 abd 324 be 248 b 298 cd 403 acd 467 abd 449 abe 167 e 22 d 131 ace 385 ae 69 abe 10 ab 2 ace 437 ace 226 ce 412 abe 489 ce 347 be 205 ae 407 e 212 abd 182 bd 306 be 261 ae 2 be 455 abe 194 d 357 ad 470 ae 65 a 437 ac 66 c 137 ac 77 ac 274 ad 4 abd 256 c 336 ad 31 be 269 ac 425 ace 83 bd 441 cd 229 ce 474 bd 188 e 182 ac 349 ab 425 ce 415 ace 102 c 286 acd 349 be 375 a 395 ad 279 a 367 cd 12 a 465 d 131 abd 239 ae 60 ace 171 ad 103 ace 385 be 471 

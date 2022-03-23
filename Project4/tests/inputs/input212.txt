@@ -1,0 +1,10 @@
+2
+6 14 
+0
+
+1
+12 
+0
+
+70
+ad 3 be 2 ace 4 b 3 b 1 ac 1 b 0 ce 1 acd 2 ce 3 acd 2 ad 1 d 1 b 2 ad 1 a 0 a 0 b 3 be 1 cd 3 abe 2 ad 4 b 0 ae 0 cd 2 d 3 be 3 a 1 be 1 ae 0 d 0 ab 2 e 2 c 1 cd 4 be 0 ce 4 abe 3 ce 0 bd 0 ce 3 ae 1 be 3 ae 1 ac 0 d 1 b 2 abd 2 c 3 abd 3 d 2 a 2 ad 0 d 3 c 3 abe 1 ac 3 abe 3 cd 2 a 1 ac 2 c 3 cd 2 ac 2 abe 1 be 1 abd 0 b 0 acd 1 be 3 

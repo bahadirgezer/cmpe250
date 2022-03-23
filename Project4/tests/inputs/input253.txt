@@ -1,0 +1,10 @@
+1
+6 
+2
+0 8 
+3
+12 11 11 
+0
+
+83
+ab 0 acd 7 b 21 e 3 abd 39 abe 20 ae 30 cd 24 acd 28 ad 28 cd 19 ad 11 a 38 ad 11 d 4 ad 18 d 8 ab 22 cd 38 be 22 e 32 d 18 d 2 ad 40 ae 9 ab 27 abd 3 cd 32 abd 29 ae 0 ace 15 ac 25 ab 14 bd 26 ace 22 cd 25 d 40 cd 25 ce 36 ac 37 ab 36 b 19 e 5 acd 28 ac 19 d 29 acd 17 ad 6 ae 14 d 31 cd 20 ce 30 ce 26 cd 17 acd 25 b 0 ae 23 ace 11 abd 1 ac 14 ac 39 acd 28 ce 39 be 32 bd 3 d 17 a 14 cd 20 ac 12 ce 17 ac 16 cd 2 be 29 c 39 be 18 ad 9 ab 21 abd 21 e 39 ace 14 ce 26 ace 13 ace 15 

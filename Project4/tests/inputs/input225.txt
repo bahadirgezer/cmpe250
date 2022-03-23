@@ -1,0 +1,10 @@
+2
+9 2 
+2
+0 13 
+0
+
+2
+16 10 
+18
+e 12 ab 12 bd 9 ad 22 ad 1 a 3 ae 9 be 2 d 11 ae 23 d 19 ce 21 abe 22 b 12 b 1 ad 7 c 3 d 22 

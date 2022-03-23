@@ -1,0 +1,10 @@
+0
+
+2
+714 172 
+2
+409 721 
+1
+203 
+105
+ac 334 e 66 ab 733 acd 609 c 639 abe 495 cd 148 ace 406 bd 11 ac 741 abd 266 ab 669 ace 706 be 392 be 730 ab 704 c 142 e 748 acd 639 be 351 ae 612 ab 586 ae 500 bd 656 d 485 e 496 bd 599 b 627 be 720 be 749 be 366 e 704 a 264 ce 208 bd 212 abe 595 c 140 ce 293 cd 85 c 400 acd 137 abd 514 be 568 be 686 ce 191 acd 47 ac 595 ce 369 ac 183 ace 369 e 88 be 662 b 579 ab 13 ce 258 ab 327 c 465 a 131 ab 447 be 97 d 581 ae 442 b 486 be 665 ae 238 ce 533 be 509 e 387 bd 274 be 366 abd 560 ce 304 abd 182 b 141 d 665 ae 220 a 228 d 185 b 349 ace 243 ad 625 ab 331 abd 476 bd 155 e 405 bd 495 ace 313 cd 572 a 192 d 458 ace 596 d 448 cd 419 bd 746 be 339 d 660 d 586 a 290 abd 409 ab 645 ce 460 ce 597 cd 173 ad 667 e 122 

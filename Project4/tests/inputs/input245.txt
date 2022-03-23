@@ -1,0 +1,10 @@
+0
+
+0
+
+0
+
+0
+
+41
+cd 0 acd 5 a 7 d 8 c 5 ad 10 cd 5 ad 2 a 7 ae 9 d 9 bd 5 abe 7 be 4 be 0 d 1 cd 10 c 5 ab 4 ae 9 d 4 ad 7 ae 10 e 10 ac 7 ac 5 ace 7 bd 1 abd 7 acd 7 b 5 ad 9 ce 6 ae 4 abd 10 ab 0 cd 8 ace 5 bd 8 c 3 d 4 

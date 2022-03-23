@@ -1,0 +1,10 @@
+4
+30 17 6 20 
+4
+17 10 21 1 
+2
+27 31 
+1
+28 
+35
+abe 32 a 5 ce 19 ce 45 e 19 ac 45 ac 38 abe 27 cd 1 be 43 c 21 c 29 d 6 c 41 c 11 acd 7 b 16 be 30 cd 25 d 31 abe 11 bd 30 cd 16 e 45 ce 37 b 43 ab 26 acd 10 b 22 abd 35 ac 30 acd 13 ce 12 cd 11 acd 35 

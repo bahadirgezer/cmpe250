@@ -1,0 +1,10 @@
+2
+27 42 
+0
+
+0
+
+2
+23 1 
+14
+e 16 ab 15 d 14 ac 8 e 13 ce 0 e 8 ac 15 bd 9 ab 18 ce 0 acd 6 e 2 ace 8 

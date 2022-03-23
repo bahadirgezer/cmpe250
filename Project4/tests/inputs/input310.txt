@@ -1,0 +1,10 @@
+1
+661 
+2
+627 268 
+0
+
+1
+1076 
+24
+ace 401 abe 448 abd 614 abd 821 ace 969 acd 199 ae 571 be 228 ce 738 abd 745 abd 856 b 637 b 591 b 334 ad 335 abd 318 abe 703 ab 206 ae 294 e 615 ce 589 ad 1008 ae 246 ce 0 

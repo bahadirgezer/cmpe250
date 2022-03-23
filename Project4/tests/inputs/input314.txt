@@ -1,0 +1,10 @@
+3
+864 988 886 
+3
+1457 118 1136 
+1
+1184 
+3
+100 741 1341 
+66
+a 190 ae 72 abe 86 c 62 ac 163 ace 138 acd 152 acd 228 ae 195 ae 100 b 153 ac 144 bd 126 be 85 abe 24 ce 226 d 122 abd 63 ace 42 ab 148 cd 7 d 149 bd 180 abe 2 ce 53 bd 46 c 166 ae 190 ac 2 ac 59 ac 236 acd 249 a 96 ae 118 c 169 be 239 cd 6 b 189 ad 107 ac 41 acd 149 b 210 ace 41 ce 167 abe 143 d 231 ce 257 e 21 b 113 abd 226 b 74 ab 117 e 50 a 235 be 145 ac 84 ae 235 ae 27 abd 192 d 121 e 176 acd 222 a 231 bd 92 ac 132 acd 205 

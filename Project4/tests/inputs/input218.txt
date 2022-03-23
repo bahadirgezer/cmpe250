@@ -1,0 +1,10 @@
+1
+0 
+2
+0 0 
+1
+0 
+0
+
+21
+acd 26 ad 5 acd 35 ac 33 e 27 ace 25 abd 23 c 45 ad 10 e 36 c 30 acd 12 ac 42 ace 14 acd 43 ae 18 a 31 cd 16 ad 29 ac 27 b 30 

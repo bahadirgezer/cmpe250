@@ -1,0 +1,10 @@
+0
+
+3
+5 10 4 
+0
+
+2
+11 8 
+42
+c 0 abd 0 ace 0 d 0 d 0 ae 0 d 0 b 0 ac 0 abe 0 ce 0 a 0 ae 0 abe 0 ab 0 ace 0 abd 0 d 0 b 0 d 0 c 0 acd 0 acd 0 d 0 ac 0 ce 0 d 0 ae 0 ab 0 ad 0 ace 0 ae 0 abe 0 c 0 ce 0 a 0 abe 0 bd 0 acd 0 abe 0 acd 0 d 0 

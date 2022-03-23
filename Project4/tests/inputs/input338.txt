@@ -1,0 +1,10 @@
+2
+116 508 
+3
+647 403 388 
+2
+366 499 
+4
+60 695 42 198 
+62
+ad 530 ace 213 ace 611 ace 28 abd 51 c 268 be 386 d 90 abe 201 ab 118 be 591 ad 626 ae 354 a 322 bd 96 ab 611 b 495 b 509 abd 643 acd 177 ad 19 be 280 ab 277 ae 187 ac 158 ce 96 ad 502 d 492 cd 253 cd 518 ae 49 abd 140 c 423 b 189 be 307 ce 81 a 298 ad 279 ce 190 abd 536 ac 370 ae 594 abd 364 ac 518 ab 160 e 305 abe 323 cd 465 c 539 acd 267 e 488 ac 571 ac 273 ace 560 be 629 abd 318 ae 572 ab 30 acd 320 cd 498 acd 76 acd 281 

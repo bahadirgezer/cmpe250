@@ -1,0 +1,10 @@
+2
+713 1163 
+5
+501 1379 1404 376 1016 
+9
+1350 748 895 648 1152 711 51 1215 1071 
+0
+
+84
+be 194 ab 57 acd 1043 b 366 cd 544 ab 928 cd 254 ace 643 ad 689 abe 407 ae 220 c 1049 bd 969 abe 569 ace 305 e 700 d 236 d 312 abd 1005 be 441 ab 379 ace 8 be 309 ce 372 bd 907 b 930 d 558 be 556 c 850 ce 215 ad 485 ce 152 d 387 be 170 bd 443 e 141 d 386 acd 612 bd 256 ad 318 bd 744 abd 1016 acd 1033 be 430 acd 466 ac 890 ab 234 ce 573 d 709 ace 34 d 437 bd 499 ae 599 a 523 b 764 abd 793 abe 1017 acd 99 cd 605 abd 1028 acd 544 a 226 ce 69 bd 186 bd 44 bd 377 ce 335 ad 3 acd 296 acd 154 ace 687 ace 978 abd 183 b 331 b 652 ace 240 acd 837 abd 511 be 628 b 58 ae 39 d 138 e 304 bd 686 

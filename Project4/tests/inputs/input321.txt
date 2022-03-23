@@ -1,0 +1,10 @@
+3
+95 95 120 
+1
+96 
+3
+226 19 76 
+2
+186 100 
+180
+a 34 ab 87 abe 96 bd 50 bd 104 a 59 c 33 bd 117 ac 62 bd 127 c 85 b 73 ace 30 c 30 acd 85 e 43 ad 52 abe 108 ce 42 bd 13 cd 8 abe 40 abd 53 ab 66 c 116 d 55 acd 0 ab 72 ace 118 ae 112 a 64 ace 112 d 50 ad 46 ce 108 ab 30 ae 102 cd 100 a 54 ad 55 d 109 b 10 ace 125 a 99 ae 31 b 7 ace 82 ac 58 abd 81 abe 60 abd 98 bd 8 ce 95 cd 64 b 125 e 65 cd 19 ab 75 ce 8 ad 76 e 9 ae 52 ac 6 d 15 abe 81 a 125 a 86 a 122 ae 100 abd 47 be 12 c 123 cd 114 acd 67 e 48 c 16 abd 26 ab 74 e 112 cd 94 d 65 ae 74 e 55 a 124 b 102 a 75 ad 61 ac 48 ace 128 ad 37 c 126 acd 29 c 83 ace 30 cd 116 d 53 e 102 ae 91 ac 73 ac 100 ac 73 ace 76 c 93 c 22 ae 15 abe 21 abd 50 e 113 be 77 ad 18 cd 98 abd 70 ad 14 ab 5 bd 12 a 21 abd 25 bd 57 ad 92 abd 39 abd 117 a 128 ad 77 ac 87 cd 3 ace 64 ac 24 a 28 bd 28 b 3 acd 40 cd 27 abe 95 ace 123 be 9 c 1 ace 15 a 35 abd 0 bd 14 ab 96 bd 99 ae 104 abe 39 cd 54 ac 27 c 74 b 53 c 46 b 13 b 34 ae 6 ce 34 ad 69 ac 54 a 32 e 10 c 53 cd 119 be 25 e 94 ad 113 ab 87 c 58 c 92 cd 82 be 56 ae 31 abd 6 ce 35 b 88 ace 43 abe 54 ace 22 ab 44 ce 28 ce 72 ab 5 d 22 a 80 
